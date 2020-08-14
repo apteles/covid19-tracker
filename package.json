@@ -1,5 +1,6 @@
 {
   "name": "covid-tracker",
+  "homepage": "https://github.com/apteles/covid19-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
