@@ -8,8 +8,9 @@
 - Filtragem de Casos, Recuperados e Mortos.
 - Filtro por intervalo de dias (30,60,90,120).
 
-Caso tenha interesse, o projeto pode ser acessado [Aqui]().
+Caso tenha interesse, o projeto pode ser acessado [Aqui](https://apteles.github.io/covid19-tracker/).
 
+Nesse projeto foi utilizado a API do site [disease.sh](https://disease.sh/).
 # Tecnologias e Ferramentas
 
 - [Javascript]().
@@ -21,7 +22,29 @@ Caso tenha interesse, o projeto pode ser acessado [Aqui]().
 
 # Executando o projeto.
 
-TODO
+**Obs.: É necessário que você tenha o `nodejs` instalado em sua máquina e o gerênciador de dependências `yarn`**.
+
+Clone o projeto
+```sh
+
+git clone https://github.com/apteles/covid19-tracker.git
+
+```
+
+Entre na pasta `covid19-tracker`
+```sh
+cd covid19-tracker
+```
+Instale as dependências 
+```sh
+yarn install
+```
+
+Execute o projeto: 
+```sh
+yarn start
+```
+
 
 # Licença
 
